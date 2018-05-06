@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:gravity="center_horizontal"
+android:orientation="vertical">
+    tools:context="com.mlljet002.alphabetbook.runtimepermissions.MainActivity">
+    tools:context="com.mlljet002.alphabetbook.MainActivity">
+    <Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="@string/A"
+    android:id="@+id/a"
+        android:onClick="button_click"
+        />
+
+
+/>
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:paddingBottom="20dp"
+    >
+    <Button android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/B"
+        android:id="@+id/b"
+        android:layout_gravity="center" android:onClick="button_click"/>
+    <Button android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/C"
+        android:id="@+id/c"
+        android:layout_gravity="center" android:onClick="button_click"/>
+
+    <Button android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/D"
+        android:id="@+id/d"
+        android:layout_gravity="bottom" android:onClick="button_click"/>
+
+    <Button android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/E"
+        android:id="@+id/e"
+        android:layout_gravity="bottom" android:onClick="button_click"/>
+
+</LinearLayout>
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:paddingBottom="20dp"
+    >
+    <Button android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/F"
+        android:id="@+id/f"
+        android:layout_gravity="center" android:onClick="button_click"/>
+    <Button android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/G"
+        android:id="@+id/g"
+        android:layout_gravity="center" android:onClick="button_click"/>
+
+    <Button android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/H"
+        android:id="@+id/h"
+        android:layout_gravity="bottom" android:onClick="button_click"/>
+
+    <Button android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/I"
+        android:id="@+id/i"
+        android:layout_gravity="bottom" android:onClick="button_click"/>
+
+</LinearLayout><LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:paddingBottom="20dp"
+    >
+    <Button android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/J"
+        android:id="@+id/j"
+        android:layout_gravity="center" android:onClick="button_click"/>
+    <Button android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/K"
+        android:id="@+id/k"
+        android:layout_gravity="center" android:onClick="button_click"/>
+
+    <Button android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/L"
+        android:id="@+id/l"
+        android:layout_gravity="bottom" android:onClick="button_click"/>
+
+    <Button android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/M"
+        android:id="@+id/m"
+        android:layout_gravity="bottom" android:onClick="button_click"/>
+
+</LinearLayout><LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:paddingBottom="20dp"
+    >
+    <Button android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/N"
+        android:id="@+id/n"
+        android:layout_gravity="center" android:onClick="button_click"/>
+    <Button android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/O"
+        android:id="@+id/o"
+        android:layout_gravity="center" android:onClick="button_click"/>
+
+    <Button android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/P"
+        android:id="@+id/p"
+        android:layout_gravity="bottom" android:onClick="button_click"/>
+
+    <Button android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Q"
+        android:id="@+id/q"
+        android:layout_gravity="bottom" android:onClick="button_click"/>
+
+</LinearLayout><LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:paddingBottom="20dp"
+    >
+    <Button android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/R"
+        android:id="@+id/r"
+        android:layout_gravity="center" android:onClick="button_click"/>
+    <Button android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/S"
+        android:id="@+id/s"
+        android:layout_gravity="center" android:onClick="button_click"/>
+
+    <Button android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/T"
+        android:id="@+id/t"
+        android:layout_gravity="bottom" android:onClick="button_click"/>
+
+    <Button android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/U"
+        android:id="@+id/u"
+        android:layout_gravity="bottom" android:onClick="button_click"/>
+
+
+</LinearLayout><LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:paddingBottom="0dp"
+    >
+    <Button android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/V"
+        android:id="@+id/v"
+        android:layout_gravity="center" android:onClick="button_click"/>
+    <Button android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/W"
+        android:id="@+id/w"
+        android:layout_gravity="center" android:onClick="button_click"/>
+
+    <Button android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/X"
+        android:id="@+id/x"
+        android:layout_gravity="bottom" android:onClick="button_click"/>
+
+    <Button android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Y"
+        android:id="@+id/y"
+        android:layout_gravity="bottom" android:onClick="button_click"/>
+
+</LinearLayout>
+<Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/z"
+    android:text="@string/Z"
+     android:onClick="button_click"/>
+</LinearLayout>
+
